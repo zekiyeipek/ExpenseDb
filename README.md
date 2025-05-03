@@ -106,4 +106,3 @@ Bu API, bir şirkette sahada çalışan personelin masraf taleplerini girmesi ve
 ![Monthly Summary](Screenshots/Admin/reports-monthly-summary.png)
 ![Weekly Summary](Screenshots/Admin/reports-weekly-summary.png)
 ![Export All CSV](Screenshots/Admin/reports-all-export.png)
-![CSV Dosyası](Screenshots/Admin/tum-masraflar.csv)
