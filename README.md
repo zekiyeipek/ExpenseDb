@@ -98,7 +98,7 @@ Bu API, bir şirkette sahada çalışan personelin masraf taleplerini girmesi ve
 
 ![Dashboard](Screenshots/Admin/reports-dashboard.png)
 ![Trend](Screenshots/Admin/reports-trend.png)
-![Summary By Personnel](Screenshots/Admin/reports-summary-by-personnel.png)
+![Summary By Personnel](Screenshots/Admin/reports-summary-by-personel.png)
 ![Person Summary](Screenshots/Admin/reports-person-summary.png)
 ![Category Summary](Screenshots/Admin/reports-category-summary.png)
 ![Category Totals](Screenshots/Admin/reports-category-totals.png)
